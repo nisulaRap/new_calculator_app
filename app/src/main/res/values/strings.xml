@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tutorial04Calculator</string>
+    <string name="label_Number1">Number 01</string>
+    <string name="label_Number2">Number 02</string>
+    <string name="edt_Number1">Enter Number 1</string>
+    <string name="edt_Number2">Enter Number 2</string>
+    <string name="btn_Plus">+</string>
+    <string name="btn_Minus">-</string>
+    <string name="btn_Multiply">x</string>
+    <string name="btn_Divide">/</string>
+</resources>
